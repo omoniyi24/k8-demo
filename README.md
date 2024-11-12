@@ -3,7 +3,7 @@
 ## Start Minikube and Check Status
 
 ```bash
-minikube start --vm-driver=hyperkit 
+minikube start driver docker 
 minikube status
 ```
 
